@@ -1,10 +1,10 @@
 {
     "$schema": "https://raw.githubusercontent.com/FLECS-Technologies/app-sdk/main/manifest.schema.json",
     "_schemaVersion": "2.0.0",
-    "app": "info.bachmann.atvise",
+    "app": "info.bachmann.atserver",
     "version": "##Version##",
     "revision": "0",
-    "image": "flecs.azurecr.io/info.bachmann.atvise",
+    "image": "flecs.azurecr.io/info.bachmann.atserver",
     "multiInstance": false,
     "interactive": true,
     "editor": ":8010",
